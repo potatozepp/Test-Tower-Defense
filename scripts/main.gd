@@ -125,7 +125,7 @@ func update_hud() -> void:
 	base_label.text = "Base: %d" % base_health
 	if not game_over:
 		var state := "Prepare defenses" if wave_manager == null or wave_manager.waiting_for_next_wave else "Enemies approaching"
-		var number := 1 if wave_manager == null else max(wave_manager.current_wave, 1)
+		var number = 1 if wave_manager == null else max(wave_manager.current_wave, 1)
 		wave_label.text = "Wave %d  •  %s" % [number, state]
 
 func _draw() -> void:

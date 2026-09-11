@@ -1,0 +1,14 @@
+78098b89c88a74ebe8c20117b8754620
+::res://::1789148347
+README.md::TextFile::-1::1789148314::0::1::::<><><>0<>0<><>::
+::res://scenes/::1789148314
+enemy.tscn::PackedScene::-1::1789148314::0::1::::<><><>0<>0<><>::res://scripts/enemy.gd
+main.tscn::PackedScene::-1::1789148314::0::1::::<><><>0<>0<><>::res://scripts/main.gd
+projectile.tscn::PackedScene::-1::1789148314::0::1::::<><><>0<>0<><>::res://scripts/projectile.gd
+tower.tscn::PackedScene::-1::1789148314::0::1::::<><><>0<>0<><>::res://scripts/tower.gd
+::res://scripts/::1789148314
+enemy.gd::GDScript::7903596674159591419::1789148314::0::1::::Enemy<>Node2D<><>0<>0<><>::
+main.gd::GDScript::2194684721507900225::1789148314::0::1::::<>Node2D<><>0<>0<><>::
+projectile.gd::GDScript::4645817793452058871::1789148314::0::1::::Projectile<>Node2D<><>0<>0<><>::
+tower.gd::GDScript::1441100347076605717::1789148314::0::1::::Tower<>Node2D<><>0<>0<><>::
+wave_manager.gd::GDScript::4217790749101013845::1789148314::0::1::::WaveManager<>Node<><>0<>0<><>::
